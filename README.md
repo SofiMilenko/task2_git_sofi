@@ -1,1 +1,1 @@
-# task2_git_sofi
+Im starting to explore QA now at online IT school . 
